@@ -1,9 +1,12 @@
 # 系统由 React+Node+Ant Desgin驱动
 
-![图片alt](../finalRenderImg.png)
-![图片alt](../detail.png)
-![图片alt](../backstage.png)
-![图片alt](../login.png)
+
+
+
+![图片alt](https://imgchr.com/i/wXeztJ)
+![图片alt](https://imgchr.com/i/wXexk4)
+![图片alt](https://imgchr.com/i/wXeOmT)
+![图片alt](https://imgchr.com/i/wXe5kQ)
 
 
 前台：
