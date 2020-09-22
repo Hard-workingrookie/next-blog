@@ -1,12 +1,10 @@
 # 系统由 React+Node+Ant Desgin驱动
 
 
-
-
-![图片alt](https://imgchr.com/i/wXeztJ)
-![图片alt](https://imgchr.com/i/wXexk4)
-![图片alt](https://imgchr.com/i/wXeOmT)
-![图片alt](https://imgchr.com/i/wXe5kQ)
+[![wXeztJ.md.png](https://s1.ax1x.com/2020/09/22/wXeztJ.md.png)](https://imgchr.com/i/wXeztJ)
+[![wXexk4.md.png](https://s1.ax1x.com/2020/09/22/wXexk4.md.png)](https://imgchr.com/i/wXexk4)
+[![wXeOmT.md.png](https://s1.ax1x.com/2020/09/22/wXeOmT.md.png)](https://imgchr.com/i/wXeOmT)
+[![wXe5kQ.png](https://s1.ax1x.com/2020/09/22/wXe5kQ.png)](https://imgchr.com/i/wXe5kQ)
 
 
 前台：
